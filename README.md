@@ -72,6 +72,7 @@ Q <= D;
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+
 <img width="728" height="273" alt="image" src="https://github.com/user-attachments/assets/8fbc9e4c-22b9-4035-9cb8-f4357fcc905c" />
 
 
